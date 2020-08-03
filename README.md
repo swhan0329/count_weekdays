@@ -6,13 +6,13 @@ This is a program for counting weekdays(except holidays). You can change the hol
 
 # How to use the program
 1. Download the business_duration package.
-'''bash
+```bash
 pip install business-duration
-'''
+```
 2. Run the main.py file
-'''bash
+```bash
 python main.py
-'''
+```
 3. Input the start date(format: yyyy-mm-dd). After input the start date, press Enter key.
 4. Input the end date(format: yyyy-mm-dd). After input the end date, press Enter key.
 5. You can see the result.
